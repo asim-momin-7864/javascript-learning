@@ -109,7 +109,7 @@ console.log(typeof animalNames); //* => object
   1) Stack Memory :- All primitive uses, It gives us copy of value
   2) Heap Memory :- All non-primitive uses, It gives us memory address (reference)
 
-*  Diagram of Stack and Heap (Hover)  [screenshots/stack_and_heap.png]
+  Diagram [screenshots/stack_and_heap.png] 
 
 */
 
