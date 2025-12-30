@@ -1,4 +1,4 @@
-// Array Merge
+//* Array Merge
 
 const marvelHeros1 = ["thor", "ironman", "spiderman"];
 const dcHeros1 = ["superman", "flash", "batman"];
